@@ -14,7 +14,7 @@ class Color(DefaultColor):
     SEPARATOR_FG = 16
 
     READONLY_BG = 1
-    READONLY_FG = 15
+    READONLY_FG = 0
 
     REPO_CLEAN_BG = 12  # green
     REPO_CLEAN_FG = 0  # black
